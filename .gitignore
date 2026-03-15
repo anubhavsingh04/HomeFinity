@@ -1,0 +1,9 @@
+# .env file contains prod related data 
+ApnaStayBackend/.env
+# Backend Spring Boot dev config
+ApnaStayBackend/src/main/resources/application-dev.properties
+# plan 
+ApnaStayBackend/plan
+
+
+ApnaStayFrontEnd/.env
